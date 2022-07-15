@@ -1,0 +1,17 @@
+LICENSE
+NOTICE
+
+#Tar files
+*.tar.gz
+
+# Data files
+test2/
+test1/
+
+prometheus
+promtool
+key
+
+#grafana unzipped
+grafana-9.0.2/
+
