@@ -5,9 +5,9 @@
 bash run.sh argument1 argument2 argument3
 ```
 
-argument1: Directory name where all the untarred data goes 
-argument2: The tar file that needs to be untarred
-argument3: container name to run grafana
+argument1: Directory name where all the untarred data goes  <br />
+argument2: The tar file that needs to be untarred  <br />
+argument3: container name to run grafana  <br />
 
 For example: 
 ```console
